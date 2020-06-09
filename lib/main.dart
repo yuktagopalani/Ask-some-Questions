@@ -42,9 +42,7 @@ class _BallState extends State<Ball> {
                     number=Random().nextInt(5)+1;
                   });
                 },
-
               ),
-
             ),
 
           ],
